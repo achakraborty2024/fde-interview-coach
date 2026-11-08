@@ -1,5 +1,4 @@
-# Learner's workbench and virtual envs — never commit these
-my-coach/
+# Virtual envs — never commit these
 .venv/
 __pycache__/
 .env
